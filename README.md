@@ -8,3 +8,7 @@ To predict the score of a student based on # of hours studied Used Linear regres
 Task 2 : Prediction Using Unsupervised ML
 
 In this task it is required to predict the optimum number of cluster for the iris data set .iris data set consists of 3 types of flower namely Iris-setosa Iris-versicolour and Iris-virginica.
+
+Task 3 : Exploratory Data Analysis - Retail
+
+In This Task, We Have To find Out The Weak Area Where We Can Work To Make More profit.
